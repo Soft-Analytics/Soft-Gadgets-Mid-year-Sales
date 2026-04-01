@@ -10,5 +10,7 @@ Smartphones had the highest revenue while tablets has the lowest.
 
 Asia tops the chart in revenue but North America is more profitable in margin while Europe lags behind in both areas.
 
+Click here for the Dashboard Screenshot https://github.com/Soft-Analytics/Soft-Gadgets-Mid-year-ScreeshotSales/blob/main/Screenshot%202026-02-13%20213945.png
+
 Click here to watch my Dashboard Demo
 https://github.com/Soft-Analytics/Soft-Gadgets-Mid-year-Sales/blob/main/InShot_20260112_231517675.mp4
