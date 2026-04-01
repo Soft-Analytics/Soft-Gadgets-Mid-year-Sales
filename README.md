@@ -9,3 +9,6 @@ Key findings: The profit made was $254.93k
 Smartphones had the highest revenue while tablets has the lowest.
 
 Asia tops the chart in revenue but North America is more profitable in margin while Europe lags behind in both areas.
+
+Click here to watch my Dashboard Demo
+(https://github.com/Soft-Analytics/Soft-Gadgets-Mid-year-Sales/blob/main/InShot_20260112_231517675.mp4)
