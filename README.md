@@ -1,5 +1,5 @@
 Project Title: Soft-Gadgets-Mid-year-Sales
-Analyzing the first 6 months of the sales of gadgets to know our orofit killers and makers
+Analyzing the first 6 months of the sales of gadgets to know our profit killers and makers
 
 Tools: Excel for cleaning, PowerBi for visuals
 
